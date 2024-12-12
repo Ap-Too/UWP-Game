@@ -1,0 +1,72 @@
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameLibrary\bin\x86\Debug\GameLibrary.dll
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameLibrary\bin\x86\Debug\GameLibrary.pdb
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameLibrary\bin\x86\Debug\GameLibrary.pri
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameLibrary\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameLibrary\obj\x86\Debug\GameLibrary.csproj.AssemblyReference.cache
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameLibrary\obj\x86\Debug\GameLibrary.csproj.CoreCompileInputs.cache
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameLibrary\obj\x86\Debug\GameLibr.D5A65543.Up2Date
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameLibrary\obj\x86\Debug\GameLibrary.dll
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameLibrary\obj\x86\Debug\GameLibrary.pdb
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameLibrary\obj\x86\Debug\priconfig.xml
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameLibrary\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameLibrary\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameLibrary\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameLibrary\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameLibrary\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameLibrary\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameLibrary\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameLibrary\obj\x86\Debug\resources.resfiles
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameLibrary\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameLibrary\obj\x86\Debug\pri.resfiles
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameLibrary\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameLibrary\obj\x86\Debug\qualifiers.txt
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameLibrary\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameLibrary\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\01 - Lab 1A\UWPGame\GameLibrary\bin\x86\Debug\GameLibrary.dll
+C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\01 - Lab 1A\UWPGame\GameLibrary\bin\x86\Debug\GameLibrary.pdb
+C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\01 - Lab 1A\UWPGame\GameLibrary\bin\x86\Debug\GameLibrary.pri
+C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\01 - Lab 1A\UWPGame\GameLibrary\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\01 - Lab 1A\UWPGame\GameLibrary\obj\x86\Debug\GameLibrary.csproj.AssemblyReference.cache
+C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\01 - Lab 1A\UWPGame\GameLibrary\obj\x86\Debug\GameLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\01 - Lab 1A\UWPGame\GameLibrary\obj\x86\Debug\GameLibr.D5A65543.Up2Date
+C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\01 - Lab 1A\UWPGame\GameLibrary\obj\x86\Debug\GameLibrary.dll
+C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\01 - Lab 1A\UWPGame\GameLibrary\obj\x86\Debug\GameLibrary.pdb
+C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\01 - Lab 1A\UWPGame\GameLibrary\obj\x86\Debug\priconfig.xml
+C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\01 - Lab 1A\UWPGame\GameLibrary\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\01 - Lab 1A\UWPGame\GameLibrary\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\01 - Lab 1A\UWPGame\GameLibrary\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\01 - Lab 1A\UWPGame\GameLibrary\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\01 - Lab 1A\UWPGame\GameLibrary\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\01 - Lab 1A\UWPGame\GameLibrary\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\01 - Lab 1A\UWPGame\GameLibrary\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\01 - Lab 1A\UWPGame\GameLibrary\obj\x86\Debug\resources.resfiles
+C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\01 - Lab 1A\UWPGame\GameLibrary\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\01 - Lab 1A\UWPGame\GameLibrary\obj\x86\Debug\pri.resfiles
+C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\01 - Lab 1A\UWPGame\GameLibrary\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\01 - Lab 1A\UWPGame\GameLibrary\obj\x86\Debug\qualifiers.txt
+C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\01 - Lab 1A\UWPGame\GameLibrary\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\01 - Lab 1A\UWPGame\GameLibrary\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameLibrary\bin\x86\Debug\GameLibrary.dll
+C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameLibrary\bin\x86\Debug\GameLibrary.pdb
+C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameLibrary\bin\x86\Debug\GameLibrary.pri
+C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameLibrary\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameLibrary\obj\x86\Debug\GameLibrary.csproj.AssemblyReference.cache
+C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameLibrary\obj\x86\Debug\GameLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameLibrary\obj\x86\Debug\GameLibr.D5A65543.Up2Date
+C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameLibrary\obj\x86\Debug\GameLibrary.dll
+C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameLibrary\obj\x86\Debug\GameLibrary.pdb
+C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameLibrary\obj\x86\Debug\priconfig.xml
+C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameLibrary\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameLibrary\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameLibrary\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameLibrary\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameLibrary\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameLibrary\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameLibrary\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameLibrary\obj\x86\Debug\resources.resfiles
+C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameLibrary\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameLibrary\obj\x86\Debug\pri.resfiles
+C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameLibrary\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameLibrary\obj\x86\Debug\qualifiers.txt
+C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameLibrary\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameLibrary\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt

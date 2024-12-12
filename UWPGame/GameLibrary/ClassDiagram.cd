@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GameLibrary.Collision">
+    <Position X="4.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>Collision.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLibrary.GameObject">
+    <Position X="1.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAIAAAACAAAAAAAAAAAAAAAAAAAAAAYAA=</HashCode>
+      <FileName>GameObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLibrary.HighScore">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAIAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>HighScore.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLibrary.Map">
+    <Position X="4.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAIAAAQAAAAAAACAAAAAAAAAAAUAAIAAEAAAABJFCCA=</HashCode>
+      <FileName>Map.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLibrary.Ghost">
+    <Position X="0.5" Y="5.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AEQAAAIAAIAAAAgAAAAAAAQhAAAAAAAACACAAAAgAAI=</HashCode>
+      <FileName>Ghost.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="GameLibrary.Player">
+    <Position X="2.5" Y="5.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AQQAQAAQAIAAhAEABABAAIQhAAAABIAAAAAAAAAAQAA=</HashCode>
+      <FileName>Player.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="GameLibrary.PowerUp">
+    <Position X="6.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAEAACAAEAAAAAAAAAAgAQABAAAAYAA=</HashCode>
+      <FileName>PowerUp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLibrary.Projectile">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIBAAAAAECAAAAABAAAAAAAQAAAAAAAAYAA=</HashCode>
+      <FileName>Projectile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLibrary.WindowSizer">
+    <Position X="8" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAARAAQAAAAYAAAAEAAAAAAAAAAAAAAAAAAABI=</HashCode>
+      <FileName>WindowSizer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="GameLibrary.IAnimate">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IAnimate.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="GameLibrary.Direction">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAACACAAAAAAAI=</HashCode>
+      <FileName>Direction.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="GameLibrary.PowerType">
+    <Position X="8" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AYAAAAAAAAAAAAEBAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PowerType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

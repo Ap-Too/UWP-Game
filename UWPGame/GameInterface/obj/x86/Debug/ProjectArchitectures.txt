@@ -1,0 +1,2 @@
+C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\GameInterface.csproj;x86
+C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameLibrary\GameLibrary.csproj;x86

@@ -1,0 +1,548 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-5EQG1KN</Machine>
+    <WindowsUser>Ben</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>9762facd-5d38-4b8e-b1f9-c18608f911c1</PackageIdentityName>
+    <PackageIdentityPublisher>CN=melis</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\obj\x86\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\bin\x86\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>BFA1D5F41431A01BF1A215AEF57F7A7AB6EEDDE2E6660E9A6A249B0ED0EF3461</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>9762facd-5d38-4b8e-b1f9-c18608f911c1_1.0.0.0_x86__3xc9w9vd514j8</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>9762facd-5d38-4b8e-b1f9-c18608f911c1_3xc9w9vd514j8!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>9762facd-5d38-4b8e-b1f9-c18608f911c1</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=melis</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\bin\x86\Debug\Core\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2024-12-11T19:44:03.257</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\bin\x86\Debug\GameInterface.exe">
+      <PackagePath>entrypoint\GameInterface.exe</PackagePath>
+      <Modified>2024-12-11T19:44:01.928</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.12\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
+      <PackagePath>System.Runtime.dll</PackagePath>
+      <Modified>2021-02-05T01:15:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\.nuget\packages\win2d.uwp\1.27.1\runtimes\win10-x86\native\Microsoft.Graphics.Canvas.dll">
+      <PackagePath>Microsoft.Graphics.Canvas.dll</PackagePath>
+      <Modified>2023-11-21T16:37:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameLibrary\bin\x86\Debug\GameLibrary.dll">
+      <PackagePath>GameLibrary.dll</PackagePath>
+      <Modified>2024-12-11T19:41:21.619</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\.nuget\packages\win2d.uwp\1.27.1\lib\uap10.0\Microsoft.Graphics.Canvas.winmd">
+      <PackagePath>Microsoft.Graphics.Canvas.winmd</PackagePath>
+      <Modified>2023-11-21T16:37:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.22621.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
+      <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
+      <Modified>2024-02-22T00:52:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2024-10-16T14:17:14.759</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2024-10-16T14:17:14.775</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Sprites\Barrier\LBend.png">
+      <PackagePath>Assets\Sprites\Barrier\LBend.png</PackagePath>
+      <Modified>2024-09-18T20:32:27.705</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Sprites\Barrier\Rectangle1.png">
+      <PackagePath>Assets\Sprites\Barrier\Rectangle1.png</PackagePath>
+      <Modified>2024-09-18T20:32:27.713</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Sprites\Barrier\Rectangle2.png">
+      <PackagePath>Assets\Sprites\Barrier\Rectangle2.png</PackagePath>
+      <Modified>2024-09-18T20:32:27.747</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Sprites\Barrier\Rectangle3.png">
+      <PackagePath>Assets\Sprites\Barrier\Rectangle3.png</PackagePath>
+      <Modified>2024-09-18T20:32:27.747</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Sprites\Barrier\TLong_L.png">
+      <PackagePath>Assets\Sprites\Barrier\TLong_L.png</PackagePath>
+      <Modified>2024-09-18T20:32:27.765</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Sprites\Barrier\TLong_R.png">
+      <PackagePath>Assets\Sprites\Barrier\TLong_R.png</PackagePath>
+      <Modified>2024-09-18T20:32:27.765</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Sprites\Barrier\T_Object.png">
+      <PackagePath>Assets\Sprites\Barrier\T_Object.png</PackagePath>
+      <Modified>2024-09-18T20:32:27.757</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Sprites\Ghosts\Blue\Blue_Down_1.png">
+      <PackagePath>Assets\Sprites\Ghosts\Blue\Blue_Down_1.png</PackagePath>
+      <Modified>2024-09-18T20:24:23.902</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Sprites\Ghosts\Blue\Blue_Down_2.png">
+      <PackagePath>Assets\Sprites\Ghosts\Blue\Blue_Down_2.png</PackagePath>
+      <Modified>2024-09-18T20:24:23.903</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Sprites\Ghosts\Blue\Blue_Left_1.png">
+      <PackagePath>Assets\Sprites\Ghosts\Blue\Blue_Left_1.png</PackagePath>
+      <Modified>2024-09-18T20:24:23.912</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Sprites\Ghosts\Blue\Blue_Left_2.png">
+      <PackagePath>Assets\Sprites\Ghosts\Blue\Blue_Left_2.png</PackagePath>
+      <Modified>2024-09-18T20:24:23.941</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Sprites\Ghosts\Blue\Blue_Right_1.png">
+      <PackagePath>Assets\Sprites\Ghosts\Blue\Blue_Right_1.png</PackagePath>
+      <Modified>2024-09-18T20:24:23.943</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Sprites\Ghosts\Blue\Blue_Right_2.png">
+      <PackagePath>Assets\Sprites\Ghosts\Blue\Blue_Right_2.png</PackagePath>
+      <Modified>2024-09-18T20:24:23.951</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Sprites\Ghosts\Blue\Blue_Up_1.png">
+      <PackagePath>Assets\Sprites\Ghosts\Blue\Blue_Up_1.png</PackagePath>
+      <Modified>2024-09-18T20:24:23.959</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Sprites\Ghosts\Blue\Blue_Up_2.png">
+      <PackagePath>Assets\Sprites\Ghosts\Blue\Blue_Up_2.png</PackagePath>
+      <Modified>2024-09-18T20:24:23.961</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Sprites\Ghosts\Pink\Pink_Down_1.png">
+      <PackagePath>Assets\Sprites\Ghosts\Pink\Pink_Down_1.png</PackagePath>
+      <Modified>2024-09-18T20:24:11.844</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Sprites\Ghosts\Pink\Pink_Down_2.png">
+      <PackagePath>Assets\Sprites\Ghosts\Pink\Pink_Down_2.png</PackagePath>
+      <Modified>2024-09-18T20:24:11.852</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Sprites\Ghosts\Pink\Pink_Left_1.png">
+      <PackagePath>Assets\Sprites\Ghosts\Pink\Pink_Left_1.png</PackagePath>
+      <Modified>2024-09-18T20:24:11.882</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Sprites\Ghosts\Pink\Pink_Left_2.png">
+      <PackagePath>Assets\Sprites\Ghosts\Pink\Pink_Left_2.png</PackagePath>
+      <Modified>2024-09-18T20:24:11.893</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Sprites\Ghosts\Pink\Pink_Right_1.png">
+      <PackagePath>Assets\Sprites\Ghosts\Pink\Pink_Right_1.png</PackagePath>
+      <Modified>2024-09-18T20:24:11.899</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Sprites\Ghosts\Pink\Pink_Right_2.png">
+      <PackagePath>Assets\Sprites\Ghosts\Pink\Pink_Right_2.png</PackagePath>
+      <Modified>2024-09-18T20:24:11.901</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Sprites\Ghosts\Pink\Pink_Up_1.png">
+      <PackagePath>Assets\Sprites\Ghosts\Pink\Pink_Up_1.png</PackagePath>
+      <Modified>2024-09-18T20:24:11.910</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Sprites\Ghosts\Pink\Pink_Up_2.png">
+      <PackagePath>Assets\Sprites\Ghosts\Pink\Pink_Up_2.png</PackagePath>
+      <Modified>2024-09-18T20:24:11.910</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Sprites\Ghosts\Red\Red_Down_1.png">
+      <PackagePath>Assets\Sprites\Ghosts\Red\Red_Down_1.png</PackagePath>
+      <Modified>2024-09-18T20:23:54.571</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Sprites\Ghosts\Red\Red_Down_2.png">
+      <PackagePath>Assets\Sprites\Ghosts\Red\Red_Down_2.png</PackagePath>
+      <Modified>2024-09-18T20:23:54.571</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Sprites\Ghosts\Red\Red_Left_1.png">
+      <PackagePath>Assets\Sprites\Ghosts\Red\Red_Left_1.png</PackagePath>
+      <Modified>2024-09-18T20:23:54.607</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Sprites\Ghosts\Red\Red_Left_2.png">
+      <PackagePath>Assets\Sprites\Ghosts\Red\Red_Left_2.png</PackagePath>
+      <Modified>2024-09-18T20:23:54.612</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Sprites\Ghosts\Red\Red_Right_1.png">
+      <PackagePath>Assets\Sprites\Ghosts\Red\Red_Right_1.png</PackagePath>
+      <Modified>2024-09-18T20:23:54.621</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Sprites\Ghosts\Red\Red_Right_2.png">
+      <PackagePath>Assets\Sprites\Ghosts\Red\Red_Right_2.png</PackagePath>
+      <Modified>2024-09-18T20:23:54.626</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Sprites\Ghosts\Red\Red_Up_1.png">
+      <PackagePath>Assets\Sprites\Ghosts\Red\Red_Up_1.png</PackagePath>
+      <Modified>2024-09-18T20:23:54.631</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Sprites\Ghosts\Red\Red_Up_2.png">
+      <PackagePath>Assets\Sprites\Ghosts\Red\Red_Up_2.png</PackagePath>
+      <Modified>2024-09-18T20:23:54.637</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Sprites\Ghosts\Orange\Orange_Down_1.png">
+      <PackagePath>Assets\Sprites\Ghosts\Orange\Orange_Down_1.png</PackagePath>
+      <Modified>2024-09-18T20:24:35.258</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Sprites\Ghosts\Orange\Orange_Down_2.png">
+      <PackagePath>Assets\Sprites\Ghosts\Orange\Orange_Down_2.png</PackagePath>
+      <Modified>2024-09-18T20:24:35.266</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Sprites\Ghosts\Orange\Orange_Left_1.png">
+      <PackagePath>Assets\Sprites\Ghosts\Orange\Orange_Left_1.png</PackagePath>
+      <Modified>2024-09-18T20:24:35.296</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Sprites\Ghosts\Orange\Orange_Left_2.png">
+      <PackagePath>Assets\Sprites\Ghosts\Orange\Orange_Left_2.png</PackagePath>
+      <Modified>2024-09-18T20:24:35.298</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Sprites\Ghosts\Orange\Orange_Right_1.png">
+      <PackagePath>Assets\Sprites\Ghosts\Orange\Orange_Right_1.png</PackagePath>
+      <Modified>2024-09-18T20:24:35.310</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Sprites\Ghosts\Orange\Orange_Right_2.png">
+      <PackagePath>Assets\Sprites\Ghosts\Orange\Orange_Right_2.png</PackagePath>
+      <Modified>2024-09-18T20:24:35.315</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Sprites\Ghosts\Orange\Orange_Up_1.png">
+      <PackagePath>Assets\Sprites\Ghosts\Orange\Orange_Up_1.png</PackagePath>
+      <Modified>2024-09-18T20:24:35.315</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Sprites\Ghosts\Orange\Orange_Up_2.png">
+      <PackagePath>Assets\Sprites\Ghosts\Orange\Orange_Up_2.png</PackagePath>
+      <Modified>2024-09-18T20:24:35.323</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Sprites\Ghosts\Scared\Fright2_1.png">
+      <PackagePath>Assets\Sprites\Ghosts\Scared\Fright2_1.png</PackagePath>
+      <Modified>2024-09-18T20:26:36.612</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Sprites\Ghosts\Scared\Fright2_2.png">
+      <PackagePath>Assets\Sprites\Ghosts\Scared\Fright2_2.png</PackagePath>
+      <Modified>2024-09-18T20:26:36.644</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Sprites\Ghosts\Scared\Fright_1.png">
+      <PackagePath>Assets\Sprites\Ghosts\Scared\Fright_1.png</PackagePath>
+      <Modified>2024-09-18T20:26:36.600</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Sprites\Ghosts\Scared\Fright_2.png">
+      <PackagePath>Assets\Sprites\Ghosts\Scared\Fright_2.png</PackagePath>
+      <Modified>2024-09-18T20:26:36.612</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Sprites\Pellets\Pellet.png">
+      <PackagePath>Assets\Sprites\Pellets\Pellet.png</PackagePath>
+      <Modified>2024-09-18T20:32:44.421</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Sprites\PowerUps\PowerPellet.png">
+      <PackagePath>Assets\Sprites\PowerUps\PowerPellet.png</PackagePath>
+      <Modified>2024-09-18T20:32:44.427</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Sprites\Player\Death1.png">
+      <PackagePath>Assets\Sprites\Player\Death1.png</PackagePath>
+      <Modified>2024-10-05T00:16:02.574</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Sprites\Player\Death10.png">
+      <PackagePath>Assets\Sprites\Player\Death10.png</PackagePath>
+      <Modified>2024-10-05T00:20:30.886</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Sprites\Player\Death11.png">
+      <PackagePath>Assets\Sprites\Player\Death11.png</PackagePath>
+      <Modified>2024-10-05T00:21:21.375</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Sprites\Player\Death12.png">
+      <PackagePath>Assets\Sprites\Player\Death12.png</PackagePath>
+      <Modified>2024-10-05T00:52:43.618</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Sprites\Player\Death2.png">
+      <PackagePath>Assets\Sprites\Player\Death2.png</PackagePath>
+      <Modified>2024-10-05T00:15:54.474</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Sprites\Player\Death3.png">
+      <PackagePath>Assets\Sprites\Player\Death3.png</PackagePath>
+      <Modified>2024-10-05T00:16:34.796</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Sprites\Player\Death4.png">
+      <PackagePath>Assets\Sprites\Player\Death4.png</PackagePath>
+      <Modified>2024-10-05T00:17:02.488</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Sprites\Player\Death5.png">
+      <PackagePath>Assets\Sprites\Player\Death5.png</PackagePath>
+      <Modified>2024-10-05T00:17:32.287</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Sprites\Player\Death6.png">
+      <PackagePath>Assets\Sprites\Player\Death6.png</PackagePath>
+      <Modified>2024-10-05T00:18:00.866</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Sprites\Player\Death7.png">
+      <PackagePath>Assets\Sprites\Player\Death7.png</PackagePath>
+      <Modified>2024-10-05T00:18:47.386</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Sprites\Player\Death8.png">
+      <PackagePath>Assets\Sprites\Player\Death8.png</PackagePath>
+      <Modified>2024-10-05T00:27:56.714</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Sprites\Player\Death9.png">
+      <PackagePath>Assets\Sprites\Player\Death9.png</PackagePath>
+      <Modified>2024-10-05T00:19:58.025</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Sprites\Player\Down_1.png">
+      <PackagePath>Assets\Sprites\Player\Down_1.png</PackagePath>
+      <Modified>2024-09-18T20:22:54.629</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Sprites\Player\Down_2.png">
+      <PackagePath>Assets\Sprites\Player\Down_2.png</PackagePath>
+      <Modified>2024-09-18T20:22:54.645</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Sprites\Player\Left_1.png">
+      <PackagePath>Assets\Sprites\Player\Left_1.png</PackagePath>
+      <Modified>2024-09-18T20:22:54.646</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Sprites\Player\Left_2.png">
+      <PackagePath>Assets\Sprites\Player\Left_2.png</PackagePath>
+      <Modified>2024-09-18T20:22:54.654</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Sprites\Player\Player_0.png">
+      <PackagePath>Assets\Sprites\Player\Player_0.png</PackagePath>
+      <Modified>2024-09-18T20:22:54.654</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Sprites\Player\Right_1.png">
+      <PackagePath>Assets\Sprites\Player\Right_1.png</PackagePath>
+      <Modified>2024-09-18T20:22:54.662</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Sprites\Player\Right_2.png">
+      <PackagePath>Assets\Sprites\Player\Right_2.png</PackagePath>
+      <Modified>2024-09-18T20:22:54.662</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Sprites\Player\Up_1.png">
+      <PackagePath>Assets\Sprites\Player\Up_1.png</PackagePath>
+      <Modified>2024-09-18T20:22:54.670</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Sprites\Player\Up_2.png">
+      <PackagePath>Assets\Sprites\Player\Up_2.png</PackagePath>
+      <Modified>2024-09-18T20:22:54.670</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Sprites\PowerUps\Apple.png">
+      <PackagePath>Assets\Sprites\PowerUps\Apple.png</PackagePath>
+      <Modified>2024-09-18T20:26:02.594</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Sprites\PowerUps\Bell.png">
+      <PackagePath>Assets\Sprites\PowerUps\Bell.png</PackagePath>
+      <Modified>2024-09-18T20:26:02.595</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Sprites\PowerUps\Cherry.png">
+      <PackagePath>Assets\Sprites\PowerUps\Cherry.png</PackagePath>
+      <Modified>2024-09-18T20:26:02.627</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Sprites\PowerUps\Key.png">
+      <PackagePath>Assets\Sprites\PowerUps\Key.png</PackagePath>
+      <Modified>2024-09-18T20:26:02.627</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Sprites\PowerUps\Melon.png">
+      <PackagePath>Assets\Sprites\PowerUps\Melon.png</PackagePath>
+      <Modified>2024-09-18T20:26:02.635</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Sprites\PowerUps\Orange.png">
+      <PackagePath>Assets\Sprites\PowerUps\Orange.png</PackagePath>
+      <Modified>2024-09-18T20:26:02.644</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Sprites\PowerUps\Starship.png">
+      <PackagePath>Assets\Sprites\PowerUps\Starship.png</PackagePath>
+      <Modified>2024-09-18T20:26:02.644</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Sprites\PowerUps\Strawberry.png">
+      <PackagePath>Assets\Sprites\PowerUps\Strawberry.png</PackagePath>
+      <Modified>2024-09-18T20:26:02.652</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Sprites\Wall\Corner_BottomLeft.png">
+      <PackagePath>Assets\Sprites\Wall\Corner_BottomLeft.png</PackagePath>
+      <Modified>2024-09-18T20:27:58.574</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Sprites\Wall\Corner_BottomRight.png">
+      <PackagePath>Assets\Sprites\Wall\Corner_BottomRight.png</PackagePath>
+      <Modified>2024-09-18T20:27:58.574</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Sprites\Wall\Corner_TopLeft.png">
+      <PackagePath>Assets\Sprites\Wall\Corner_TopLeft.png</PackagePath>
+      <Modified>2024-09-18T20:27:58.607</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Sprites\Wall\Corner_TopRight.png">
+      <PackagePath>Assets\Sprites\Wall\Corner_TopRight.png</PackagePath>
+      <Modified>2024-09-18T20:27:58.615</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Sprites\Wall\HorizontalWall_Bottom.png">
+      <PackagePath>Assets\Sprites\Wall\HorizontalWall_Bottom.png</PackagePath>
+      <Modified>2024-09-18T20:27:58.623</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Sprites\Wall\HorizontalWall_Top.png">
+      <PackagePath>Assets\Sprites\Wall\HorizontalWall_Top.png</PackagePath>
+      <Modified>2024-09-18T20:27:58.626</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Sprites\Wall\VerticalWallLeft.png">
+      <PackagePath>Assets\Sprites\Wall\VerticalWallLeft.png</PackagePath>
+      <Modified>2024-09-18T20:27:58.635</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Sprites\Wall\VerticalWallRight.png">
+      <PackagePath>Assets\Sprites\Wall\VerticalWallRight.png</PackagePath>
+      <Modified>2024-09-18T20:27:58.638</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2024-10-16T14:17:14.792</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2024-10-16T14:17:14.779</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2024-10-16T14:17:14.783</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2024-10-16T14:17:14.798</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2024-10-16T14:17:14.800</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\Properties\Default.rd.xml">
+      <PackagePath>Properties\Default.rd.xml</PackagePath>
+      <Modified>2024-09-16T22:37:17.038</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\bin\x86\Debug\GameInterface.xr.xml">
+      <PackagePath>GameInterface.xr.xml</PackagePath>
+      <Modified>2024-10-19T00:52:11.839</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\bin\x86\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2024-12-11T19:44:01.701</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\bin\x86\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2024-12-11T19:44:01.701</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\bin\x86\Debug\LoadLevel.xbf">
+      <PackagePath>LoadLevel.xbf</PackagePath>
+      <Modified>2024-12-11T19:44:01.701</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.22621.0\Windows.winmd">
+      <PackagePath>WinMetadata\Windows.winmd</PackagePath>
+      <Modified>2024-02-22T03:46:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2024-12-11T19:41:29.487</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ben\Documents\01 - School\02 - Fall 2024\03 - PROG1621 - Adv. Data Structures\02 - Labs\02 - Lab 1B\UWPGame\GameInterface\bin\x86\Debug\Core\GameInterface.exe">
+      <PackagePath>GameInterface.exe</PackagePath>
+      <Modified>2024-12-11T19:44:03.250</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Users\Ben\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.29713.2</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.29713.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Ben\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Ben\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.29713.2</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.29713.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Ben\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Ben\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.29713.2</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.29713.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Ben\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Ben\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.29301.2</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.29301.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Ben\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Ben\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.29301.2</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.29301.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Ben\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Ben\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.29301.2</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.29301.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Ben\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.33519.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.33519.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.33519.0</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.33519.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM64\Microsoft.VCLibs.ARM64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.33519.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.33519.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.33519.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.33519.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
